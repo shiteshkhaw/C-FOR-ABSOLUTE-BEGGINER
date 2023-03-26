@@ -7,6 +7,22 @@ int main()
  {
  cout<<i<<endl;
  }
+ //while loop 
+  int i=0;
+  while (i < 6) {
+        cout << "Hello World"<<end;
+        i++;
+    }
+ 
+ 
+ //do while loop
+  int i = 0;
+  do {
+    cout << i << "\n";
+    i++;
+  }
+  while (i < 5);
+ 
  getch();
  return 0;
 }
